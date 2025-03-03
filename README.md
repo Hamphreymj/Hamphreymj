@@ -34,7 +34,7 @@ I'm a **developer** and **teacher** passionate about **building software solutio
 ---
 
 ### 😄 Pronouns:
-He/Him
+Him
 
 ---
 
