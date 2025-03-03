@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Humphrey Mj
+### 👋 Hi, I’m Hamphrey Mj
 I'm a **developer** and **teacher** passionate about **building software solutions** and **helping others learn**. I enjoy working on **web and mobile applications**, and I have experience in **CodeIgniter, Laravel, and Flutter**.
 
 ---
